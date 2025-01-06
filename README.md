@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=Namoux)
 ```
-📧・quoc-name.ngo@laplateforme.io
+📧・quoc-nam.ngo@laplateforme.io
 🏴・🇫🇷 
 🏛️・Student
 

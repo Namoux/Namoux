@@ -1,16 +1,18 @@
-## Hi there 👋
+![](https://komarev.com/ghpvc/?username=Namoux)
+```
+📧・quoc-name.ngo@laplateforme.io
+🏴・🇫🇷 
+🏛️・Student
 
-<!--
-**Namoux/Namoux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🕵🏽・Linkedin : mettre lien
+🖥️・Social medias : Namoux
+📀・Discord : namoux.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+・Web Developper
+・Learning ReactJS, C, Js/Ts, Angular, Php, NodeJs
+・Fullstack Learner
+```
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Namoux&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Namoux&theme=github_dark)

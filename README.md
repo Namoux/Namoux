@@ -5,7 +5,7 @@
 🏛️・Student
 
 
-🕵🏽・Linkedin : (https://www.linkedin.com/in/nam-ngo830/)
+🕵🏽・Linkedin : [https://www.linkedin.com/in/nam-ngo830/]
 🖥️・Social medias : Namoux
 📀・Discord : namoux.
 
